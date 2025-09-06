@@ -1,0 +1,5 @@
+{ 
+"env": { 
+  "JWT_KEY": "fitnesstracksecret2025"
+  }
+}
