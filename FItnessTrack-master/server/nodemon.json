@@ -1,5 +1,6 @@
 { 
 "env": { 
-  "JWT_KEY": "fitnesstracksecret2025"
+  "JWT_SECRET": "fitnesstracksecret2025"
   }
+
 }
